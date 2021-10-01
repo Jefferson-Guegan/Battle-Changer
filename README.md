@@ -1,3 +1,5 @@
+ !!! Pour voir l'ensemble des commits du projet, rendez-vous sur https://github.com/MaximeKirch/Worldcompany !!!
+ 
  Projet réalisé dans le cadre d'un Hackathon de 24h en équipe de trois  : 
 
   - "Grâce à React, propulsez la technologie actuelle à une ère historique de votre choix. "
