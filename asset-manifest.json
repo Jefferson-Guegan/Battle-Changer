@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Battle-Changer/static/css/main.ae532ab1.chunk.css",
+    "main.js": "/Battle-Changer/static/js/main.3214e52f.chunk.js",
+    "main.js.map": "/Battle-Changer/static/js/main.3214e52f.chunk.js.map",
+    "runtime-main.js": "/Battle-Changer/static/js/runtime-main.1735bda3.js",
+    "runtime-main.js.map": "/Battle-Changer/static/js/runtime-main.1735bda3.js.map",
+    "static/js/2.3e625e30.chunk.js": "/Battle-Changer/static/js/2.3e625e30.chunk.js",
+    "static/js/2.3e625e30.chunk.js.map": "/Battle-Changer/static/js/2.3e625e30.chunk.js.map",
+    "index.html": "/Battle-Changer/index.html",
+    "static/css/main.ae532ab1.chunk.css.map": "/Battle-Changer/static/css/main.ae532ab1.chunk.css.map",
+    "static/js/2.3e625e30.chunk.js.LICENSE.txt": "/Battle-Changer/static/js/2.3e625e30.chunk.js.LICENSE.txt",
+    "static/media/charles7.0daff5a8.jpeg": "/Battle-Changer/static/media/charles7.0daff5a8.jpeg",
+    "static/media/guillaumeNormandie.ab18f4d6.jpg": "/Battle-Changer/static/media/guillaumeNormandie.ab18f4d6.jpg",
+    "static/media/leonidas.0e0b89a8.jpg": "/Battle-Changer/static/media/leonidas.0e0b89a8.jpg",
+    "static/media/map.4a117448.jpeg": "/Battle-Changer/static/media/map.4a117448.jpeg",
+    "static/media/philippeAuguste.14b4de7c.jpg": "/Battle-Changer/static/media/philippeAuguste.14b4de7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1735bda3.js",
+    "static/js/2.3e625e30.chunk.js",
+    "static/css/main.ae532ab1.chunk.css",
+    "static/js/main.3214e52f.chunk.js"
+  ]
+}
