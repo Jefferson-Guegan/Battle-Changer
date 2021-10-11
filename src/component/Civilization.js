@@ -1,5 +1,5 @@
 import React from 'react';
-import CivilizationList from './CivilizationList'
+import Japanese from "../blasons/CivIcon-Japanese.png";
 
 const Civilization = (props) => {
 

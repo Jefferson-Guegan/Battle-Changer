@@ -13,12 +13,7 @@ const CivilizationList = () => {
         setSelectedOption(option);
     }
 
-    const [dataCiv, setDataCiv] = useState(null);
-    useEffect(()=> {
-        fetch("https://age-of-empires-2-api.herokuapp.com/api/v1/civilization/4")
-        .then  ((resp)=> resp.json())
-        .then ((data) => setDataCiv(data))
-    }, [])
+   
     
     return (
         <div>
@@ -68,10 +63,9 @@ const CivilizationList = () => {
             </select>
 
             {
-                dataCiv != null &&
                 <>
-                <h2>{dataCiv.name}</h2>
-                <p>{dataCiv.civilization_bonus}</p>
+                <h2></h2>
+                <p></p>
                 </>
             }
             
